@@ -1,0 +1,10 @@
+.env
+
+.pytest_cache/
+.venv/
+.vscode/
+.src/__pycache__/
+downloaded_files/
+
+error.html
+error.png
