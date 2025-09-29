@@ -20,11 +20,11 @@ WordPress Form Checker Bot/
 ├── README.md                   # Project documentation
 ├── downloaded_files/           # Lock files for downloads
 ├── src/
-│   ├── bot_orchestrator.py     # Main orchestrator for managing workers
+│   ├── bot_orchestrator.py     # Main orchestrator for managing workers (with pytest)
 │   ├── bot_worker.py          # Core bot logic and form testing
 │   ├── utils.py               # Utility functions
 │   ├── requirements.txt       # Python dependencies
-│   └── browser_extensions/    # Browser extension files
+│   └── browser_extensions/    # Browser extension folders
 ```
 
 ## Requirements
