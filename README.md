@@ -131,7 +131,7 @@ python bot_orchestrator.py
 
 ### Key Features
 
-1. **Form Detection**: Automatically detects WordPress Contact Form 7 forms using `.wpcf7.js` selector
+1. **Form Detection**: Automatically detects WordPress Contact Form 7 forms
 
 2. **Smart Form Filling**: 
    - Detects and fills name, email, subject, and message fields
