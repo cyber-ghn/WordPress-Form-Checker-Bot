@@ -151,11 +151,7 @@ python bot_orchestrator.py
 
 ## Browser Extensions
 
-The bot supports browser extensions located in `src/browser_extensions/`. Extensions are automatically loaded when running in non-headless mode.
-
-Current included extension:
-- **ID**: `dknlfmjaanfblgfdfebhijalfmhmjjjo` (Version 0.4.13_0)
-- **Purpose**: Enhanced CAPTCHA handling
+The bot supports browser extensions located in `src/browser_extensions/`. **Extensions are only loaded when running in headless mode.**
 
 ## Testing WordPress Contact Forms
 
