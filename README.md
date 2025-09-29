@@ -18,7 +18,6 @@ A multi-threaded automated testing bot for WordPress contact forms, built with S
 WordPress Form Checker Bot/
 ├── install.bat                 # Windows installation script
 ├── README.md                   # Project documentation
-├── downloaded_files/           # Lock files for downloads
 ├── src/
 │   ├── bot_orchestrator.py     # Main orchestrator for managing workers (with pytest)
 │   ├── bot_worker.py          # Core bot logic and form testing
